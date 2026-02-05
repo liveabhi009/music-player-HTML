@@ -24,6 +24,7 @@ This project focuses on the **visual layout** of a music player rather than full
 
 ---
 
+[live](https://liveabhi009.github.io/music-player-HTML/)
 
 ![image](./image1.png)
 
